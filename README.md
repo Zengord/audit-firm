@@ -1,9 +1,11 @@
 # АУДИТОРСКАЯ ФИРМА
 
-На сайте присутствует: <br>
-<strong>Адаптив до 320px</strong> <br>
-<strong>Слайдеры</strong> <br>
-<strong>rem и em единицы</strong> <br>
+<h3>На сайте присутствует:</h3>
+<ul>
+  <li>Адаптив до 320px</li>
+  <li>Слайдеры</li>
+  <li>rem и em единицы</li>
+</ul>
 
-Страницы сайта: <br>
+<h3>Страницы сайта:</h3>
 Главная страница - https://zengord.github.io/audit-firm/
